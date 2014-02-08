@@ -1,0 +1,3 @@
+# Exercise 1
+
+Collect event log entries from all web servers related to ASP.Net. Include any Warning or Error events for a 24 hour period beginning 4 days ago.
